@@ -96,7 +96,7 @@ a {
 
 a:active,
 a:hover {
-  outline: 0;
+  outline: none;
 }
 
 /* Text-level semantics
@@ -133,8 +133,8 @@ dfn {
  */
 
 h1 {
-  font-size: 2em;
-  margin: 0.67em 0;
+  font-size: 2rem;
+  margin: 0.67rem 0;
 }
 
 /**
@@ -151,7 +151,7 @@ mark {
  */
 
 small {
-  font-size: 80%;
+  font-size: 79%;
 }
 
 /**
